@@ -26,7 +26,6 @@
         "sdras.night-owl",
         "pedrodalben.vue-componente-file"
     ],
-
     "publisher": "PedroDalben",
     "keywords": [
         "vue"
@@ -37,5 +36,6 @@
     "homepage": "https://github.com/Pedro-Kazap/vue-components-pack",
     "bugs": {
         "url": "https://github.com/Pedro-Kazap/vue-components-pack/issues"
-    }
+    },
+    "license": "MIT"
 }
